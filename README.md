@@ -21,3 +21,7 @@ Le notebook contient le déroulé du code et est organisé comme suit :
 
 
 Voici le lien du challenge : https://challengedata.ens.fr/participants/challenges/50/
+
+Le projet contient les éléments suivants : 
+- un dossier "data" (zip), avec X_train et Y_train, deux fichiers csv fournis par l'AMF.
+- un notebook python contenant notre code
